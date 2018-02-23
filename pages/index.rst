@@ -11,12 +11,14 @@
    :align: right
    :height: 500
 
+`Curriculum Vitae <cv.pdf>`_
+
 *******
 Contact
 *******
 	* **Email**: biao@cs.unc.edu
 	* **Github**: https://github.com/rmqlife/
-
+	
 ***************
 Education
 ***************
@@ -24,7 +26,7 @@ Education
 
 	* **B.Eng**, *Aug 2010 - Jul 2014*, Tsinghua University, Computer Science and Technology
 
-	* `Curriculum Vitae <cv.pdf>`_
+	
 
 *****************
 Experience
@@ -41,24 +43,24 @@ Experience
 
 	* **Algorithm Engineer**, *Jun 2014 – May 2015*, Landscape Mobile Tech Co.,Ltd., Beijing, China
 
-	   * Designed algorithms for two iOS apps: Sight and Screenshots.
+	   * Designed algorithms for two iOS apps: `Sight <https://techcrunch.com/2014/07/11/landscape-mobile-launches-sight-raises-seed-round-to-visually-archive-articles/>`_ and `Screenshots <https://gigaom.com/2015/01/21/this-app-organizes-your-iphone-screenshots-and-makes-them-useful/>`_.
 	   * Built a mobile application classifier using image features.
 	   * Built an OCR system for screenshots based on tesseract.
 
 *****************
 Projects
 *****************
-	* **Robust Cloth Manipulation Using Random Forest-Based Controller Parametrization, in progress**
+	* :doc:`Robust Cloth Manipulation Using Random Forest-Based Controller Parametrization <robustm>`, in progress
 	   * **Biao Jia**, Zherong Pan, Zhe Hu, `Jia Pan <http://www.cityu.edu.hk/mbe/jiapan/>`_, `Dinesh Manocha <http://cs.unc.edu/~dm>`_
 
 
-	* :doc:`Manipulating Highly Deformable Materials Using a Visual Feedback Dictionary <clothm>`, accpeted in ICRA 2018
+	* :doc:`Manipulating Highly Deformable Materials Using a Visual Feedback Dictionary <clothm>`
+	   * IEEE International Conference on Robotics and Automation (ICRA), 2018
 	   * **Biao Jia**,  Zhe Hu, `Jia Pan <http://www.cityu.edu.hk/mbe/jiapan/>`_, `Dinesh Manocha <http://cs.unc.edu/~dm>`_
 	   * **paper** https://arxiv.org/abs/1710.06947
 	   * **video** https://www.youtube.com/watch?v=AVNZy05KrPc
 
 	* **Generating Realtime Motion Plans from Attribute-Based Natural Language Instructions Using Dynamic Constraint Mapping**
-
 	   * `Jaesung Park <http://cs.unc.edu/~jaesungp>`_, **Biao Jia**, `Mohit Bansal <http://cs.unc.edu/~mbansal>`_, `Dinesh Manocha <http://cs.unc.edu/~dm>`_
 	   * **paper** https://arxiv.org/abs/1707.02387
 	   * We present an algorithm for combining NLP and realtime robot motion planning to automatically generate safe robot movements.
@@ -77,8 +79,9 @@ Projects
 *************
 Related Links
 *************
-
 	* `GAMMA Group at UNC <http://gamma.cs.unc.edu/>`_
 	* `Motion Planning in GAMMA <http://gamma.cs.unc.edu/research/robotics/>`_
-
+	* `Landscape Mobile Launches Sight, Raises Seed Round To Visually Archive Articles <https://techcrunch.com/2014/07/11/landscape-mobile-launches-sight-raises-seed-round-to-visually-archive-articles/>`_
+	* `Landscape Mobile Launches Sight App to Help Streamline the Mobile Web <https://blogs.wsj.com/venturecapital/2014/07/11/landscape-mobile-launches-sight-app-to-help-streamline-the-mobile-web/>`_
+	* `This app organizes iPhone screenshots and makes them useful <https://gigaom.com/2015/01/21/this-app-organizes-your-iphone-screenshots-and-makes-them-useful/>`_
 
