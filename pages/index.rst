@@ -8,10 +8,13 @@
 .. category: 
 
 .. image:: /images/biao.jpg
-   :align: right
-   :height: 500
+	:align: right
+	:height: 500
 
 `Curriculum Vitae <cv.pdf>`_
+
+.. _Dinesh Manocha: http://cs.unc.edu/~dm
+.. _Jia Pan: http://www.cityu.edu.hk/mbe/jiapan/
 
 *******
 Contact
@@ -22,27 +25,24 @@ Contact
 ***************
 Education
 ***************
-	* **PhD Candidate**, *Aug 2016-present*, University of North Carolina at Chapel Hill, Computer Science, advised by `Dinesh Manocha <http://cs.unc.edu/~dm>`_
-
+	* **PhD Candidate**, *Aug 2016-present*, University of North Carolina at Chapel Hill, Computer Science, advised by `Dinesh Manocha`_
 	* **B.Eng**, *Aug 2010 - Jul 2014*, Tsinghua University, Computer Science and Technology
-
 	
 
 *****************
 Experience
 *****************
 	* **Research Assistant**, *Aug 2016 – present*, University of North Carolina at Chapel Hill, NC 
-
+	   * Advised by `Dinesh Manocha`_
 	   * Researched on the multi-agent motion planning with arbitrarily-shaped obstacles.
 	   * Human intention prediction based motion planning for robots.
 	   * Manipulating deformable material using both robot and simulators.
 
 	* **Research Assistant**, *Jun 2017 – Aug 2017*, \City University of Hong Kong, Hong Kong
-
+	   * Advised by `Jia Pan`_
 	   * Built a application for learning manipulation of highly deformable objects like cloth using ABB YuMi.
 
 	* **Algorithm Engineer**, *Jun 2014 – May 2015*, Landscape Mobile Tech Co.,Ltd., Beijing, China
-
 	   * Designed algorithms for two iOS apps: `Sight <https://techcrunch.com/2014/07/11/landscape-mobile-launches-sight-raises-seed-round-to-visually-archive-articles/>`_ and `Screenshots <https://gigaom.com/2015/01/21/this-app-organizes-your-iphone-screenshots-and-makes-them-useful/>`_.
 	   * Built a mobile application classifier using image features.
 	   * Built an OCR system for screenshots based on tesseract.
@@ -50,24 +50,25 @@ Experience
 *****************
 Projects
 *****************
+
 	* :doc:`Robust Cloth Manipulation Using Random Forest-Based Controller Parametrization <robustm>`, in progress
-	   * **Biao Jia**, Zherong Pan, Zhe Hu, `Jia Pan <http://www.cityu.edu.hk/mbe/jiapan/>`_, `Dinesh Manocha <http://cs.unc.edu/~dm>`_
-
-
+	   * **Biao Jia**, Zherong Pan, Zhe Hu, `Jia Pan`_, `Dinesh Manocha`_, 
+	   
+   
 	* :doc:`Manipulating Highly Deformable Materials Using a Visual Feedback Dictionary <clothm>`
 	   * IEEE International Conference on Robotics and Automation (ICRA), 2018
-	   * **Biao Jia**,  Zhe Hu, `Jia Pan <http://www.cityu.edu.hk/mbe/jiapan/>`_, `Dinesh Manocha <http://cs.unc.edu/~dm>`_
+	   * **Biao Jia**,  Zhe Hu, `Jia Pan`_, `Dinesh Manocha`_
 	   * **paper** https://arxiv.org/abs/1710.06947
 	   * **video** https://www.youtube.com/watch?v=AVNZy05KrPc
 
 	* **Generating Realtime Motion Plans from Attribute-Based Natural Language Instructions Using Dynamic Constraint Mapping**
-	   * `Jaesung Park <http://cs.unc.edu/~jaesungp>`_, **Biao Jia**, `Mohit Bansal <http://cs.unc.edu/~mbansal>`_, `Dinesh Manocha <http://cs.unc.edu/~dm>`_
+	   * `Jaesung Park <http://cs.unc.edu/~jaesungp>`_, **Biao Jia**, `Mohit Bansal <http://cs.unc.edu/~mbansal>`_, `Dinesh Manocha`_
 	   * **paper** https://arxiv.org/abs/1707.02387
 	   * We present an algorithm for combining NLP and realtime robot motion planning to automatically generate safe robot movements.
 
 	* **Resolution-Complete Multi-agent Motion Planning with Arbitrarily-Shaped Obstacles**
 	   
-	   * `Liang He <https://sites.google.com/site/lianghehust/home>`_, **Biao Jia**, `Dinesh Manocha <http://cs.unc.edu/~dm>`_
+	   * `Liang He <https://sites.google.com/site/lianghehust/home>`_, **Biao Jia**, `Dinesh Manocha`_
 	   * We highlight its performance on challenging 2D benchmarks and highlight the benefits over prior methods.
 
 
