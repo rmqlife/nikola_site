@@ -15,6 +15,8 @@
 
 .. _Dinesh Manocha: http://cs.unc.edu/~dm
 .. _Jia Pan: http://www.cityu.edu.hk/mbe/jiapan/
+.. _Manipulating Highly Deformable Materials Using a Visual Feedback Dictionary: clothm
+.. _Cloth Manipulation Using Random-Forest-Based Controller Parametrization: robustm
 
 *******
 Contact
@@ -36,7 +38,8 @@ Experience
 	   * Advised by `Dinesh Manocha`_
 	   * Researched on the multi-agent motion planning with arbitrarily-shaped obstacles.
 	   * Human intention prediction based motion planning for robots.
-	   * Manipulating deformable material using both robot and simulators.
+	   * Manipulating deformable material using both robot and simulators. `GAMMA Cloth Manipulation Project <http://gamma.cs.unc.edu/ClothM/>`_
+
 
 	* **Research Assistant**, *Jun 2017 – Aug 2017*, \City University of Hong Kong, Hong Kong
 	   * Advised by `Jia Pan`_
@@ -51,19 +54,21 @@ Experience
 Projects
 *****************
 
-	* :doc:`Robust Cloth Manipulation Using Random Forest-Based Controller Parametrization <robustm>`, in progress
+	* `Cloth Manipulation Using Random-Forest-Based Controller Parametrization`_
+	   * Submitted to `2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) <http://www.iros2018.org>`_, 2018
 	   * **Biao Jia**, Zherong Pan, Zhe Hu, `Jia Pan`_, `Dinesh Manocha`_, 
-	   
+	   * **arXiv paper**  https://arxiv.org/abs/1802.09661
+	   * **Video** https://youtu.be/iQu85o8lFjA
    
-	* :doc:`Manipulating Highly Deformable Materials Using a Visual Feedback Dictionary <clothm>`
-	   * IEEE International Conference on Robotics and Automation (ICRA), 2018
+	* `Manipulating Highly Deformable Materials Using a Visual Feedback Dictionary`_
+	   * To be appeared in `IEEE International Conference on Robotics and Automation (ICRA) <https://icra2018.org>`_, 2018
 	   * **Biao Jia**,  Zhe Hu, `Jia Pan`_, `Dinesh Manocha`_
-	   * **paper** https://arxiv.org/abs/1710.06947
-	   * **video** https://www.youtube.com/watch?v=AVNZy05KrPc
+	   * **arXiv paper** https://arxiv.org/abs/1710.06947
+	   * **Video** https://youtu.be/AVNZy05KrPc
 
 	* **Generating Realtime Motion Plans from Attribute-Based Natural Language Instructions Using Dynamic Constraint Mapping**
 	   * `Jaesung Park <http://cs.unc.edu/~jaesungp>`_, **Biao Jia**, `Mohit Bansal <http://cs.unc.edu/~mbansal>`_, `Dinesh Manocha`_
-	   * **paper** https://arxiv.org/abs/1707.02387
+	   * **arXiv paper** https://arxiv.org/abs/1707.02387
 	   * We present an algorithm for combining NLP and realtime robot motion planning to automatically generate safe robot movements.
 
 	* **Resolution-Complete Multi-agent Motion Planning with Arbitrarily-Shaped Obstacles**
