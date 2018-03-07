@@ -81,9 +81,10 @@ NAVIGATION_LINKS = {
         #("/categories/", "Tags"),
         #("/rss.xml", "RSS feed"),
         ('/index.html', 'Home', 'icon-home'),
-        ('/archive.html', 'Archives', 'icon-folder-open-alt'),
-        ('/categories/index.html', 'Tags', 'icon-tags'),
-        ('/rss.xml', 'RSS', 'icon-rss'),
+        ('http://gamma.cs.unc.edu/ClothM/', 'Project', 'icon-folder-open-alt'),
+        ('/cv.pdf', 'Curriculum Vitae', 'icon-user'),
+        #('/categories/index.html', 'Tags', 'icon-tags'),
+        #('/rss.xml', 'RSS', 'icon-rss'),
         ('https://github.com/rmqlife', 'My Github', 'icon-github'),
     ),
 }
