@@ -9,7 +9,7 @@
 
 .. figure:: /images/biao.jpg
     :align: right 
-    :height: 200
+    :height: 250
 
 
 
@@ -41,7 +41,8 @@ Education
           :width: 150
           :align: center
        
-     -  **PhD Candidate**, *Aug 2016-present*, `University of North Carolina at Chapel Hill`_, `Computer Science <https://cs.unc.edu/>`_, advised by `Dinesh Manocha`_
+     -  **PhD Candidate**, *Aug 2016-present*, `University of North Carolina at Chapel Hill`_, \
+        `Computer Science <https://cs.unc.edu/>`_, advised by `Dinesh Manocha`_
    
    * -
      - 
@@ -50,7 +51,8 @@ Education
           :width: 150
           :align: center
 
-     - **B.Eng**, *Aug 2010 - Jul 2014*, `Tsinghua University <http://www.tsinghua.edu.cn/publish/newthuen/>`_, `Computer Science and Technology <http://www.cs.tsinghua.edu.cn/publish/csen/index.html>`_
+     - **B.Eng**, *Aug 2010 - Jul 2014*, `Tsinghua University <http://www.tsinghua.edu.cn/publish/newthuen/>`_, \
+       `Computer Science and Technology <http://www.cs.tsinghua.edu.cn/publish/csen/index.html>`_
 
 *****************
 Experience
