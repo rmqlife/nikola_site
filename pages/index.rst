@@ -1,8 +1,8 @@
-.. title: Biao Jia
+.. title: Biao Jia 
 .. slug: index
 .. date: 2018-02-20 10:00:00 UTC-03:00
 .. tags: Robotics, Computer Vision, Machine Learning
-.. author: Biao Jia
+.. author: Biao Jia 
 .. link: 
 .. description: 
 .. category: 
@@ -10,10 +10,6 @@
 .. figure:: /images/biao.jpg
     :align: right 
     :height: 250
-
-
-
-`Curriculum Vitae <cv.pdf>`_
 
 .. _Dinesh Manocha: http://cs.unc.edu/~dm
 .. _Jia Pan: http://www.cityu.edu.hk/mbe/jiapan/
@@ -23,36 +19,13 @@
 .. _City University of Hong Kong: http://www.cityu.edu.hk/
 
 
-*******
-Contact
-*******
-    * **Email**: biao@cs.unc.edu
-    * **Github**: https://github.com/rmqlife/
-    
-***************
-Education
-***************
-.. list-table:: 
-   :header-rows: 0
-   :widths: 20 80
-   :align: left
+********
+About Me
+********
+Hi! I am Biao Jia (贾骉). I am a graduate student of `Computer Science <https://cs.unc.edu/>`_ at `University of North Carolina at Chapel Hill`_. I completed my Bachelor's degree in `Computer Science and Technology <http://www.cs.tsinghua.edu.cn/publish/csen/index.html>`_ at `Tsinghua University <http://www.tsinghua.edu.cn/publish/newthuen/>`_. I am currently working in `Gamma Lab <http://gamma.cs.unc.edu/>`_ under the guidance of Prof. `Dinesh Manocha`_.
 
-   * - .. figure:: /images/unc.png
-          :width: 150
-          :align: center
-       
-     -  **PhD Candidate**, *Aug 2016-present*, `University of North Carolina at Chapel Hill`_, \
-        `Computer Science <https://cs.unc.edu/>`_, advised by `Dinesh Manocha`_
-   
-   * -
-     - 
 
-   * - .. figure:: /images/tsinghua.png
-          :width: 150
-          :align: center
-
-     - **B.Eng**, *Aug 2010 - Jul 2014*, `Tsinghua University <http://www.tsinghua.edu.cn/publish/newthuen/>`_, \
-       `Computer Science and Technology <http://www.cs.tsinghua.edu.cn/publish/csen/index.html>`_
+**Email**: biao at cs dot unc dot edu
 
 *****************
 Experience
@@ -78,13 +51,13 @@ Projects
 *****************
 .. list-table:: 
    :header-rows: 0
-   :widths: 30 70
+   :widths: 40 70
    :align: left
    :stub-columns: 1
 
 
    * - .. figure:: /images/calibration.jpg
-          :width: 200
+          :height: 100
           :align: center
 
      - `Cloth Manipulation Using Random-Forest-Based Controller Parametrization`_
@@ -96,7 +69,7 @@ Projects
      - 
 
    * - .. image:: /images/dictionary.png
-          :width: 200
+          :height: 100
           :align: center
 
      - `Manipulating Highly Deformable Materials Using a Visual Feedback Dictionary`_
@@ -109,7 +82,7 @@ Projects
      - 
 
    * - .. image:: /images/nlp.png
-          :width: 150
+          :height: 100
           :align: center
 
      - **Generating Realtime Motion Plans from Attribute-Based Natural Language Instructions Using Dynamic Constraint Mapping**
@@ -121,7 +94,7 @@ Projects
      - 
 
    * - .. image:: /images/liang.png
-          :width: 200
+          :height: 100
           :align: center
 
      - **Resolution-Complete Multi-agent Motion Planning with Arbitrarily-Shaped Obstacles**    
@@ -130,7 +103,7 @@ Projects
    * -
      - 
    * - .. image:: /images/ahz.png
-          :width: 200
+          :height: 80
           :align: center
 
      - **Pedestrian Segmentation after Detection**
@@ -145,4 +118,25 @@ Related Links
     * `Landscape Mobile Launches Sight, Raises Seed Round To Visually Archive Articles <https://techcrunch.com/2014/07/11/landscape-mobile-launches-sight-raises-seed-round-to-visually-archive-articles/>`_
     * `Landscape Mobile Launches Sight App to Help Streamline the Mobile Web <https://blogs.wsj.com/venturecapital/2014/07/11/landscape-mobile-launches-sight-app-to-help-streamline-the-mobile-web/>`_
     * `This app organizes iPhone screenshots and makes them useful <https://gigaom.com/2015/01/21/this-app-organizes-your-iphone-screenshots-and-makes-them-useful/>`_
+
+
+.. list-table:: 
+   :header-rows: 0
+   :widths: 20 20 20
+   :align: left
+
+   * - .. figure:: /images/unc.png
+          :height: 50
+          :align: center
+       
+     - .. figure:: /images/tsinghua.png
+          :height: 50
+          :align: center
+
+       
+     - .. figure:: /images/cityu.png
+          :height: 50
+          :align: center
+
+
 

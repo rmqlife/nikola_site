@@ -25,6 +25,12 @@ Overview Video
 .. youtube:: AVNZy05KrPc 
    :align: center
 
+
+Spotlight Video
+================
+.. youtube:: 01ZU5rKIt3k 
+   :align: center
+
 ArXiv Report
 ============
    * https://arxiv.org/abs/1710.06947
