@@ -7,30 +7,51 @@
 .. description: 
 .. category: 
 
-.. figure:: /images/biao.jpg
-    :align: right 
-    :height: 250
+
 
 .. _Dinesh Manocha: http://cs.unc.edu/~dm
 .. _Jia Pan: http://www.cityu.edu.hk/mbe/jiapan/
+.. _Chen Fang: http://fangchen.org/
+.. _Jon Brandt: https://research.adobe.com/person/jonathan-brandt/
+.. _Byungmoon Kim: https://research.adobe.com/person/byungmoon-kim/
+
+.. _Adobe Research: https://research.adobe.com/
+
 .. _Manipulating Highly Deformable Materials Using a Visual Feedback Dictionary: clothm
 .. _Cloth Manipulation Using Random-Forest-Based Controller Parametrization: robustm
+.. _University of Maryland at College Park: http://www.cs.umd.edu/
 .. _University of North Carolina at Chapel Hill: https://www.unc.edu/
 .. _City University of Hong Kong: http://www.cityu.edu.hk/
 
 
-********
+*****************
 About Me
-********
-Hi! I am Biao Jia (贾骉). I am a graduate student of `Computer Science <https://cs.unc.edu/>`_ at `University of North Carolina at Chapel Hill`_. I completed my Bachelor's degree in `Computer Science and Technology <http://www.cs.tsinghua.edu.cn/publish/csen/index.html>`_ at `Tsinghua University <http://www.tsinghua.edu.cn/publish/newthuen/>`_. I am currently working in `Gamma Lab <http://gamma.cs.unc.edu/>`_ under the guidance of Prof. `Dinesh Manocha`_.
+*****************
+.. figure:: /images/biao.jpg
+    :align: right 
+    :height: 250
+
+Hi! I am Biao Jia. I am a graduate student of `Computer Science <https://www.cs.umd.edu/>`_ at `University of Maryland at College Park`_ 
+and currently working in `Gamma Lab <http://gamma.cs.unc.edu/>`_ under the guidance of Prof. `Dinesh Manocha`_.
+
+I worked in the same lab in `University of North Carolina at Chapel Hill`_ and completed my Master's degree there. Before that, I completed my Bachelor's degree in `Computer Science and Technology <http://www.cs.tsinghua.edu.cn/publish/csen/index.html>`_ at `Tsinghua University <http://www.tsinghua.edu.cn/publish/newthuen/>`_.
+
+**Email**: biao at cs dot umd dot edu
 
 
-**Email**: biao at cs dot unc dot edu
 
 *****************
 Experience
 *****************
-    * **Research Assistant**, *Aug 2016 – present*, `University of North Carolina at Chapel Hill`_, NC 
+    * **Research Assistant**, *Aug 2018 – Now*, `University of Maryland at College Park`_, MD 
+       * Advised by `Dinesh Manocha`_
+       * Manipulating deformable material using both robot and simulators. `GAMMA Cloth Manipulation Project <http://gamma.cs.unc.edu/ClothM/>`_
+       * Reinforcement Learning based Planning
+
+    * **Deep Learning Intern**, *May 2018 – Aug 2018*, `Adobe Research`_, CA, San Jose 
+       * Mentored by `Chen Fang`_, `Jon Brandt`_, and `Byungmoon Kim`_
+
+    * **Research Assistant**, *Aug 2016 – May 2018*, `University of North Carolina at Chapel Hill`_, NC 
        * Advised by `Dinesh Manocha`_
        * Researched on the multi-agent motion planning with arbitrarily-shaped obstacles.
        * Human intention prediction based motion planning for robots.
@@ -53,7 +74,18 @@ Projects
    :header-rows: 0
    :widths: 40 70
    :align: left
-   :stub-columns: 1
+   :stub-columns: 0
+
+
+   * - .. figure:: /images/softarm.png
+          :height: 100
+          :align: center
+
+     - Fast Motion Planning for High-DOF Robot Systems Using Hierarchical System Identification
+           * **Biao Jia**, Zherong Pan, `Dinesh Manocha`_, 
+           * **arXiv paper**  https://arxiv.org/abs/1809.08259
+   * -
+     - 
 
 
    * - .. figure:: /images/calibration.jpg
@@ -61,7 +93,6 @@ Projects
           :align: center
 
      - `Cloth Manipulation Using Random-Forest-Based Controller Parametrization`_
-           * Submitted to `2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) <http://www.iros2018.org>`_, 2018
            * **Biao Jia**, Zherong Pan, Zhe Hu, `Jia Pan`_, `Dinesh Manocha`_, 
            * **arXiv paper**  https://arxiv.org/abs/1802.09661
            * **Video** https://youtu.be/iQu85o8lFjA
@@ -73,7 +104,7 @@ Projects
           :align: center
 
      - `Manipulating Highly Deformable Materials Using a Visual Feedback Dictionary`_
-           * To be appeared in `IEEE International Conference on Robotics and Automation (ICRA) <https://icra2018.org>`_, 2018
+           * `ICRA 2018 <https://icra2018.org>`_
            * **Biao Jia**,  Zhe Hu, `Jia Pan`_, `Dinesh Manocha`_
            * **arXiv paper** https://arxiv.org/abs/1710.06947
            * **Video** https://youtu.be/AVNZy05KrPc
@@ -121,11 +152,17 @@ Related Links
 
 
 .. list-table:: 
-   :header-rows: 0
-   :widths: 20 20 20
+   :header-rows: 0  
+   :widths: 20 20 20 20
    :align: left
 
-   * - .. figure:: /images/unc.png
+
+
+   * - .. figure:: /images/umd.png
+          :height: 50
+          :align: center
+
+     - .. figure:: /images/unc.png
           :height: 50
           :align: center
        
@@ -137,6 +174,3 @@ Related Links
      - .. figure:: /images/cityu.png
           :height: 50
           :align: center
-
-
-

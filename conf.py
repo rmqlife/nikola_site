@@ -25,7 +25,7 @@ SITE_URL = "http://cs.unc.edu/~biao/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://cs.unc.edu/~biao/"
-BLOG_EMAIL = "biao@cs.unc.edu"
+BLOG_EMAIL = "biao@cs.umd.edu"
 BLOG_DESCRIPTION = "Biao Jia's Homepage"  # (translatable)
 
 # What is the default language?
@@ -75,22 +75,52 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
 
+# NAVIGATION_LINKS = {
+#     DEFAULT_LANG: (
+#         #("/archive.html", "Archive"),
+#         #("/categories/", "Tags"),
+#         #("/rss.xml", "RSS feed"),
+#         ('/index.html', 'Home', 'icon-home'),
+#         ('http://gamma.cs.unc.edu/ClothM/', 'Project', 'icon-folder-open-alt'),
+#         ('/cv.pdf', 'Curriculum Vitae', 'icon-user'),
+#         #('/categories/index.html', 'Tags', 'icon-tags'),
+#         #('/rss.xml', 'RSS', 'icon-rss'),
+#         ('https://github.com/rmqlife', 'My Github', 'icon-github'),
+#     ),
+# }
+
+
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        #("/archive.html", "Archive"),
-        #("/categories/", "Tags"),
-        #("/rss.xml", "RSS feed"),
-        ('/index.html', 'Home', 'icon-home'),
-        ('http://gamma.cs.unc.edu/ClothM/', 'Project', 'icon-folder-open-alt'),
-        ('/cv.pdf', 'Curriculum Vitae', 'icon-user'),
-        #('/categories/index.html', 'Tags', 'icon-tags'),
-        #('/rss.xml', 'RSS', 'icon-rss'),
-        ('https://github.com/rmqlife', 'My Github', 'icon-github'),
+        ("/index.html", "Home"),
+        ('http://gamma.cs.unc.edu/ClothM/', 'Project'),
+        # ("/archive.html", "Archives"),
+        # ("/categories/index.html", "Tags"),
+        # ("/rss.xml", "RSS feed"),
     ),
 }
 
+GLOBAL_CONTEXT = {'blog_sidebar': """\
+<div class="sidebar-module sidebar-module-inset">
+  <h4>About</h4>
+  <p>This is the Bootstrap Blog theme by @mdo, adapted for Nikola by @Kwpolska.
+  And this sidebar is completely customizable — you can put anything you want
+  here!</p>
+</div>
+<div class="sidebar-module">
+  <h4>Links</h4>
+  <ol class="list-unstyled">
+    <li><a href="http://getbootstrap.com/examples/blog/">Bootstrap Blog Theme</a></li>
+    <li><a href="https://getnikola.com/">Nikola</a></li>
+    <li><a href="https://twitter.com/mdo">@mdo</a></li>
+    <li><a href="https://twitter.com/Kwpolska">@Kwpolska</a></li>
+    <li><a href="https://twitter.com/GetNikola">@GetNikola</a></li>
+  </ol>
+</div>
+"""}
+
 # Name of the theme to use.
-THEME = "zen"
+THEME = "bootstrap" # zen hpstr
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
